@@ -1,0 +1,45 @@
+1. Student
+
+View personal profile and attendance
+
+Check grades and exam results
+
+Access timetable and homework/assignments
+
+Receive notices, circulars, and messages from teachers/administration
+
+Make fee payments
+
+2. Teacher
+
+Manage their classes and subjects
+
+Mark attendance for students
+
+Create and evaluate assignments and exams
+
+Communicate with students and parents
+
+Access and update timetables
+
+3. Parent/Guardian
+
+View child’s attendance and academic performance
+
+Receive notices and messages
+
+Track fee payments and dues
+
+Communicate with teachers
+
+4. Administrator/School Staff
+
+Manage students, teachers, and staff records
+
+Set up classes, courses, and timetables
+
+Manage fee structure, finance, and payroll
+
+Generate reports and analytics
+
+Oversee library, transport, and hostel management
